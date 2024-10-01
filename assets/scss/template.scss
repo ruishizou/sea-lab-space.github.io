@@ -1,0 +1,47 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+.home-section {
+  padding: 50px 0;
+}
+
+.nav-item {
+  :hover {
+    background-color: #00285c;
+  }
+
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.intro-image-banner {
+  height: 600px;
+  color: #fff;
+  text-align: center;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.section-title-left-aligned .section-heading h1 {
+  text-align: left;
+}
+
+.section-title-left-aligned p {
+  text-align: justify;
+}
+
+.section-custom-header .section-heading h1 {
+  font-family:'Gill Sans', san-serif;
+  // font-size: 44px;
+  text-align: left;
+}
+

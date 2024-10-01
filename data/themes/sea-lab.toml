@@ -1,0 +1,20 @@
+# Theme metadata
+name = "SEA Lab"
+
+[light]
+  # Primary
+  primary = "#003373"
+
+  # Menu
+  menu_primary = "#003373" # Columbia Blue
+  menu_text = "#fff"
+  menu_hover = "#3A8FB7"
+  menu_text_active = "#3A8FB7" # Material Complemantary 500
+  menu_title = "#fff"
+
+  link_hover = "#3A8FB7"
+
+  # Home sections
+  background = "#eceff1"
+  home_section_odd = "#eceff1"
+  home_section_even = "#cfd8dc"

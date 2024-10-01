@@ -1,0 +1,257 @@
+PersonID,Full Name,Last Name,First Name,Institution,Current Email,Institution History,Email History,Alias,Full Name (Last First),Latest Collaboration Year,Latest Active
+1,Xuhai Xu,Xu,Xuhai,Columbia University,xx2489@columbia.edu,University of Washington; Massachusetts Institute of Technology,xuhaixu@uw.edu; xoxu@mit.edu,"Orson Xu; Xuhai ""Orson"" Xu; Xuhai Orson Xu; Xuhai “Orson” Xu;","Xu, Xuhai",2024,2024-08-22
+2,Anind K Dey,Dey,Anind K,University of Washington,anind@uw.edu,,,Anind K. Dey; Anind Dey,"Dey, Anind K",2024,2024-05-11
+3,Yuanchun Shi,Shi,Yuanchun,Tsinghua University,shiyc@tsinghua.edu.cn,,,,"Shi, Yuanchun",2024,2024-08-22
+4,Jennifer Mankoff,Mankoff,Jennifer,University of Washington,yuntaowang@tsinghua.edu.cn,,,Jen Mankoff; Jennifer C. Mankoff,"Mankoff, Jennifer",2023,2023-10-22
+5,Yuntao Wang,Wang,Yuntao,Tsinghua University,,,,,"Wang, Yuntao",2024,2024-05-13
+6,Chun Yu,Yu,Chun,Tsinghua University,chunyu@tsinghua.edu.cn,,,,"Yu, Chun",2024,2024-08-22
+7,Yukang Yan,Yan,Yukang,University of Rochester,yyan37@cs.rochester.edu,Tsinghua University,,,"Yan, Yukang",2024,2024-05-11
+8,Shwetak Patel,Patel,Shwetak,University of Washington,,,,,"Patel, Shwetak",2024,2024-05-13
+9,Yasaman Sefidgar,Sefidgar,Yasaman,University of Washington,,,,Yasaman S. Sefidgar,"Sefidgar, Yasaman",2023,2023-02-21
+10,Margaret E Morris,Morris,Margaret E,University of Washington,,,,Margaret E. Morris; Margaret Morris,"Morris, Margaret E",2024,2024-05-13
+11,Paula S Nurius,Nurius,Paula S,University of Washington,,,,Paula Nurius; Paula S. Nurius,"Nurius, Paula S",2023,2022-11-28
+12,Eve A Riskin,Riskin,Eve A,Stevens Institute of Technology,,,,Eve Riskin; Eve A. Riskin,"Riskin, Eve A",2023,2022-11-28
+13,Han Zhang,Zhang,Han,University of Washington,,,,,"Zhang, Han",2023,2023-10-08
+14,Jennifer Brown,Brown,Jennifer,University of Washington,,,,,"Brown, Jennifer",2023,2023-02-21
+15,Kevin S Kuehn,Kuehn,Kevin S,University of California San Diego,kskuehn@ucsd.edu,University of Washington,,Kevin Kuehn; Kevin S. Kuehn,"Kuehn, Kevin S",2023,2022-11-28
+16,Xin Liu,Liu,Xin,Google,,,,,"Liu, Xin",2024,2024-05-13
+17,Pattie Maes,Maes,Pattie,Massachusetts Institute of Technology,,,,,"Maes, Pattie",2018,2018-09-03
+18,Daniel McDuff,McDuff,Daniel,Google,,,,,"McDuff, Daniel",2024,2024-05-13
+19,Ruolin Wang,Wang,Ruolin,University of California Los Angeles,,Tsinghua University,,,"Wang, Ruolin",2022,2022-04-29
+20,Tousif Ahmed,Ahmed,Tousif,Samsung,,,,,"Ahmed, Tousif",2022,2022-07-01
+21,Tim Althoff,Althoff,Tim,University of Washington,,,,,"Althoff, Tim",2023,2022-11-28
+22,Sheldon Cohen,Cohen,Sheldon,Carnegie Mellon University,,,,,"Cohen, Sheldon",2023,2023-02-21
+23,J David Creswell,Creswell,J David,Carnegie Mellon University,,,,J. David Creswell,"Creswell, J David",2023,2023-02-21
+24,Kasey Creswell,Creswell,Kasey,Carnegie Mellon University,,,,Kasey G. Creswell,"Creswell, Kasey",2023,2023-02-21
+25,Afsaneh Doryab,Doryab,Afsaneh,University of Virginia,,,,,"Doryab, Afsaneh",2023,2023-02-21
+26,Janine M Dutcher,Dutcher,Janine M,Carnegie Mellon University,,,,Janine M. Dutcher,"Dutcher, Janine M",2023,2023-02-21
+27,Marzyeh Ghassemi,Ghassemi,Marzyeh,Massachusetts Institute of Technology,,,,,"Ghassemi, Marzyeh",2024,2024-05-20
+28,Jilong Kuang,Kuang,Jilong,Samsung,,,,,"Kuang, Jilong",2022,2022-07-01
+29,Viswam Nathan,Nathan,Viswam,Samsung,,,,,"Nathan, Viswam",2022,2022-07-01
+30,Md Mahbubur Rahman,Rahman,Md Mahbubur,Samsung,,,,Md. Mahbubur Rahman,"Rahman, Md Mahbubur",2022,2022-07-01
+31,Woosuk Seo,Seo,Woosuk,University of Michigan,,,,,"Seo, Woosuk",2023,2022-11-28
+32,Ather Sharif,Sharif,Ather,University of Washington,,,,,"Sharif, Ather",2023,2023-04-30
+33,Misha Sra,Sra,Misha,University of California Santa Barbara,,,,,"Sra, Misha",2018,2018-06-08
+34,Michael J Tumminia,Tumminia,Michael J,University of Pittsburgh,,,,Michael J. Tumminia,"Tumminia, Michael J",2023,2023-02-21
+35,Daniella K Villalba,Villalba,Daniella K,Carnegie Mellon University,,,,Daniella Villalba; Daniella K. Villalba,"Villalba, Daniella K",2021,2023-02-21
+36,Dakuo Wang,Wang,Dakuo,Northeastern University,,,,,"Wang, Dakuo",2024,2024-05-13
+37,Bingsheng Yao,Yao,Bingsheng,Northeastern University,,,,,"Yao, Bingsheng",2024,2024-05-13
+38,Xin Yi,Yi,Xin,Tsinghua University,,,,,"Yi, Xin",2024,2024-08-22
+39,Ahmed Hassan Awadallah,Awadallah,Ahmed Hassan,Microsoft,,,,,"Awadallah, Ahmed Hassan",2020,2020-04-20
+40,Cynthia Breazeal,Breazeal,Cynthia,Massachusetts Institute of Technology,,,,,"Breazeal, Cynthia",2024,2024-04-27
+41,Andrew Campbell,Campbell,Andrew,Dartmouth College,,,,,"Campbell, Andrew",2024,2024-05-11
+42,Prerna Chikersal,Chikersal,Prerna,Tripadvisor,,Carnegie Mellon University,,,"Chikersal, Prerna",2021,2021-03-19
+43,Seokmin Choi,Choi,Seokmin,University at Buffalo,,,,,"Choi, Seokmin",2023,2023-06-12
+44,Susan T Dumais,Dumais,Susan T,Microsoft,,,,Susan Dumais; Susan T Dumais; Susan T. Dumais,"Dumais, Susan T",2020,2020-04-20
+45,Yue Fu,Fu,Yue,University of Washington,,,,,"Fu, Yue",2024,2024-05-11
+46,Saadia Gabriel,Gabriel,Saadia,University of California Los Angeles,,Massachusetts Institute of Technology,,,"Gabriel, Saadia",2024,2024-05-20
+47,Jun Alex Gao,Gao,Jun Alex,Samsung,,,,,"Gao, Jun Alex",2022,2022-07-01
+48,Yang Gao,Gao,Yang,University at Buffalo,,,,,"Gao, Yang",2023,2023-06-12
+49,Liang He,He,Liang,Purdue University,,University of Washington,,,"He, Liang",2021,2021-05-06
+50,Jeremy F Huckins,Huckins,Jeremy F,Biocogniv Inc.,,Dartmouth College,,Jeremy F. Huckins,"Huckins, Jeremy F",2024,2024-05-11
+51,Farnaz Jahanbakhsh,Jahanbakhsh,Farnaz,University of Michigan,,Massachusetts Institute of Technology,,,"Jahanbakhsh, Farnaz",2020,2020-04-20
+52,Yincheng Jin,Jin,Yincheng,University at Buffalo,,,,,"Jin, Yincheng",2023,2023-06-12
+53,Zhanpeng Jin,Jin,Zhanpeng,University at Buffalo,,,,,"Jin, Zhanpeng",2023,2023-06-12
+54,Tanya R Jonker,Jonker,Tanya R,Meta,,,,Tanya R. Jonker,"Jonker, Tanya R",2024,2024-05-11
+55,Yubin Kim,Kim,Yubin,Massachusetts Institute of Technology,,,,,"Kim, Yubin",2024,2024-04-27
+56,Yan Kong,Kong,Yan,Tsinghua University,,,,,"Kong, Yan",2024,2024-08-22
+57,Zhengxiong Li,Li,Zhengxiong,University of Colorado Denver,,,,,"Li, Zhengxiong",2023,2023-06-12
+58,Kelly Avery Mack,Mack,Kelly Avery,University of Washington,,,,Kelly Mack,"Mack, Kelly Avery",2023,2023-10-22
+59,Dan McCaffrey,McCaffrey,Dan,Samsung,,,,,"McCaffrey, Dan",2022,2022-07-01
+60,Ebrahim Nemati,Nemati,Ebrahim,Samsung,,,,,"Nemati, Ebrahim",2022,2022-05-01
+61,Subigya Nepal,Nepal,Subigya,Stanford University,,Dartmouth College,,,"Nepal, Subigya",2024,2024-05-11
+62,Trung-Anh H Nguyen,Nguyen,Trung-Anh H,Duke University,,,,Trung-Anh Nguyen; Trung-Anh H. Nguyen;,"Nguyen, Trung-Anh H",2023,2023-04-30
+63,Hae Won Park,Park,Hae Won,Massachusetts Institute of Technology,,,,,"Park, Hae Won",2024,2024-04-27
+64,Xun Qian,Qian,Xun,Meta,,Purdue University,,,"Qian, Xun",2024,2024-05-11
+65,Aneesha Ramesh,Ramesh,Aneesha,University of Washington,,,,,"Ramesh, Aneesha",2023,2023-04-30
+66,Yiyi Ren,Ren,Yiyi,University of Washington,,,,,"Ren, Yiyi",2023,2023-02-21
+67,Kashyap Todi,Todi,Kashyap,Meta,,,,,"Todi, Kashyap",2024,2024-05-11
+68,Korosh Vatanparvar,Vatanparvar,Korosh,Samsung,,,,,"Vatanparvar, Korosh",2022,2022-05-01
+69,Tianyi Wang,Wang,Tianyi,Meta,,,,,"Wang, Tianyi",2024,2024-05-11
+70,Yuhan Wang,Wang,Yuhan,Tsinghua University,,,,,"Wang, Yuhan",2024,2024-05-13
+71,Han Xiao,Xiao,Han,Eindhoven University of Technology,,,,,"Xiao, Han",2024,2024-05-11
+72,Tianyi Yuan,Yuan,Tianyi,Tsinghua University,,,,,"Yuan, Tianyi",2022,2022-04-29
+73,Shao Zhang,Zhang,Shao,Northeastern University,,,,,"Zhang, Shao",2024,2024-05-13
+74,Tianyuan Zou,Zou,Tianyuan,Tsinghua University,,,,,"Zou, Tianyuan",2022,2022-04-29
+75,Henry J Adler,Adler,Henry J,University at Buffalo,,,,Henry J. Adler,"Adler, Henry J",2023,2023-06-12
+76,Yash Agarwal,Agarwal,Yash,Apple,,,,,"Agarwal, Yash",2022,2022-04-29
+77,Mohsin Yusuf Ahmed,Ahmed,Mohsin Yusuf,Samsung,,,,,"Ahmed, Mohsin Yusuf",2022,2022-07-01
+78,Sreenithi Balasubramanian,Balasubramanian,Sreenithi,University of Washington,,,,,"Balasubramanian, Sreenithi",2020,2020-05-06
+79,Hrvoje Benko,Benko,Hrvoje,Meta,,,,,"Benko, Hrvoje",2023,2023-04-19
+80,Carolina Brum,Brum,Carolina,Apple,,,,,"Brum, Carolina",2022,2022-04-29
+81,William Campbell,Campbell,William,Colby College,,,,,"Campbell, William",2024,2024-05-11
+82,Jeffrey Caterino,Caterino,Jeffrey,Ohio State University,,,,,"Caterino, Jeffrey",2024,2024-05-11
+83,Jay M Chakalasiya,Chakalasiya,Jay M,Google,,,,Jay M. Chakalasiya,"Chakalasiya, Jay M",2022,2022-09-01
+84,Yik Siu Chan,Chan,Yik Siu,Massachusetts Institute of Technology,,,,,"Chan, Yik Siu",2024,2024-04-22
+85,Chun-Cheng Chang,Chang,Chun-Cheng,University of Washington,,,,,"Chang, Chun-Cheng",2024,2024-05-13
+86,Li Chen,Chen,Li,Tsinghua University,,,,,"Chen, Li",2024,2024-05-11
+87,Luna Chen,Chen,Luna,University of Washington,,,,,"Chen, Luna",2022,2022-10-22
+88,Victor Chen,Chen,Victor,Stanford University,,,,,"Chen, Victor",2021,2021-06-28
+89,Yiqiang Chen,Chen,Yiqiang,Chinese Academy of Sciences,,,,,"Chen, Yiqiang",2022,2022-04-27
+90,Zirui Cheng,Cheng,Zirui,Tsinghua University,,,,,"Cheng, Zirui",2023,2023-04-19
+91,Eunsol Soul Choi,Choi,Eunsol Soul,Cornell University,,,,,"Choi, Eunsol Soul",2024,2024-05-11
+92,Sunny Consolvo,Consolvo,Sunny,Google,,,,,"Consolvo, Sunny",2021,2021-06-28
+93,Trevor Cowell,Cowell,Trevor,Samsung,,,,,"Cowell, Trevor",2022,2022-07-01
+94,Mary P Czerwinski,Czerwinski,Mary P,Microsoft,,,,Mary P. Czerwinski,"Czerwinski, Mary P",2024,2024-05-11
+95,Alexandru Dancu,Dancu,Alexandru,Momo Robotics,,Massachusetts Institute of Technology,,,"Dancu, Alexandru",2018,2018-09-03
+96,Colin Depp,Depp,Colin,University of California San Diego,,,,,"Depp, Colin",2024,2024-05-11
+97,Aashaka Desai,Desai,Aashaka,University of Washington,,,,,"Desai, Aashaka",2023,2023-10-22
+98,Yuanzhe Dong,Dong,Yuanzhe,Nvidia,,,,,"Dong, Yuanzhe",2024,2024-03-06
+99,Zachary Englhardt,Englhardt,Zachary,University of Washington,,,,,"Englhardt, Zachary",2024,2024-05-13
+100,Joao Marcelo Evangelista Belo,Belo,Joao Marcelo Evangelista,Saarland University,,,,João Marcelo Evangelista Belo,"Belo, Joao Marcelo Evangelista",2023,2023-04-19
+101,Lihua Fan,Fan,Lihua,Qinghai University,,,,,"Fan, Lihua",2024,2024-08-22
+102,Sami Foell,Foell,Sami,University of Washington,,,,,"Foell, Sami",2024,2024-05-11
+103,Josh Fromm,Fromm,Josh,OctoML,,,,,"Fromm, Josh",2021,2021-04-08
+104,Alex Gao,Gao,Alex,Samsung,,,,,"Gao, Alex",2022,2022-07-01
+105,Guodong Gordon Gao,Gao,Guodong Gordon,Johns Hopkins University,,,,,"Gao, Guodong Gordon",2024,2024-05-13
+106,Kate S Glazko,Glazko,Kate S,University of Washington,,,,Kate S. Glazko,"Glazko, Kate S",2023,2023-10-22
+107,Jun Gong,Gong,Jun,Apple,,,,,"Gong, Jun",2022,2022-04-29
+108,Eric Granholm,Granholm,Eric,University of California San Diego,,,,,"Granholm, Eric",2024,2024-05-11
+109,Tao Gu,Gu,Tao,Macquarie University,,,,,"Gu, Tao",2022,2022-07-04
+110,Anhong Guo,Guo,Anhong,University of Michigan,,,,,"Guo, Anhong",2024,2024-05-11
+111,Ruici Guo,Guo,Ruici,Tsinghua University,,,,,"Guo, Ruici",2023,2023-05-01
+112,Shivam Kumar Gupta,Gupta,Shivam Kumar,Apple,,,,,"Gupta, Shivam Kumar",2022,2022-04-29
+113,David Hachen,Hachen,David,University of Notre Dame,,,,,"Hachen, David",2023,2023-02-21
+114,James Hendler,Hendler,James,Rensselaer Polytechnic Institute,,,,,"Hendler, James",2024,2024-03-06
+115,Alexis Hiniker,Hiniker,Alexis,University of Washington,,,,,"Hiniker, Alexis",2024,2024-05-11
+116,Jason Holden,Holden,Jason,University of California San Diego,,,,,"Holden, Jason",2024,2024-05-11
+117,Lanqing Hou,Hou,Lanqing,University of Washington,,,,,"Hou, Lanqing",2022,2022-10-22
+118,Yongquan Hu,Hu,Yongquan,University of New South Wales,,,,,"Hu, Yongquan",2021,2021-05-06
+119,Li Huang,Huang,Li,Tsinghua University,,,,,"Huang, Li",2023,2023-04-19
+120,Scott E Hudson,Hudson,Scott E,Carnegie Mellon University,,,,Scott E. Hudson,"Hudson, Scott E",2022,2022-04-29
+121,Stephen Intille,Intille,Stephen,Northeastern University,,,,,"Intille, Stephen",2024,2024-05-13
+122,Vikram Iyer,Iyer,Vikram,University of Washington,,,,,"Iyer, Vikram",2024,2024-05-13
+123,Nicholas Jacobson,Jacobson,Nicholas,Dartmouth College,,,,,"Jacobson, Nicholas",2024,2024-05-11
+124,Hyewon Jeong,Jeong,Hyewon,Massachusetts Institute of Technology,,,,,"Jeong, Hyewon",2024,2024-04-22
+125,Lei Ji,Ji,Lei,Microsoft,leiji@microsoft.com,,,,"Ji, Lei",2024,2024-05-13
+126,Qiaolei Jiang,Jiang,Qiaolei,Tsinghua University,,,,,"Jiang, Qiaolei",2024,2024-05-11
+127,Xin Jiang,Jiang,Xin,Lenovo,,,,,"Jiang, Xin",2022,2022-04-27
+128,Yu Jiang,Jiang,Yu,Saarland University,,Tsinghua University,,,"Jiang, Yu",2022,2022-09-01
+129,Ziheng Jiang,Jiang,Ziheng,OctoML,,,,,"Jiang, Ziheng",2021,2021-04-08
+130,Runchang Kang,Kang,Runchang,Apple,,,,,"Kang, Runchang",2022,2022-04-29
+131,Sophie Kim,Kim,Sophie,Meta,,,,,"Kim, Sophie",2023,2023-04-19
+132,Narine Kokhlikyan,Kokhlikyan,Narine,Meta,,,,,"Kokhlikyan, Narine",2023,2023-04-19
+133,Joanna Kuc,Kuc,Joanna,University College London,,,,,"Kuc, Joanna",2024,2024-05-11
+134,Gierad Laput,Laput,Gierad,Apple,,,,,"Laput, Gierad",2022,2022-04-29
+135,Sung-Ju Lee,Lee,Sung-Ju,Korea Advanced Institute of Science & Technology,,,,,"Lee, Sung-Ju",2024,2024-05-11
+136,Hewu Li,Li,Hewu,Tsinghua University,,,,,"Li, Hewu",2024,2024-08-22
+137,Jiahao Li,Li,Jiahao,Uber,,University of Washington,,,"Li, Jiahao",2021,2021-05-06
+138,Jiyang Li,Li,Jiyang,University at Buffalo,,,,,"Li, Jiyang",2022,2022-07-04
+139,Michelle Li,Li,Michelle,Meta,,,,,"Li, Michelle",2023,2023-04-19
+140,Qisheng Li,Li,Qisheng,Apple,,University of Washington,,,"Li, Qisheng",2021,2021-05-06
+141,Richard Li,Li,Richard,University of Washington,,,,,"Li, Richard",2021,2021-06-28
+142,Yang Li,Li,Yang,Peking University,,,,,"Li, Yang",2022,2022-07-04
+143,Yanzhang Li,Li,Yanzhang,University of Washington,,,,,"Li, Yanzhang",2022,2022-04-29
+144,Zhipeng Li,Li,Zhipeng,ETH Zurich,,,,,"Li, Zhipeng",2024,2024-05-11
+145,Zisu Li,Li,Zisu,The Hong Kong University of Science and Technology,,,,,"Li, Zisu",2023,2023-05-01
+146,Chen Liang,Liang,Chen,Tsinghua University,,,,,"Liang, Chen",2021,2021-05-06
+147,Hai-Ning Liang,Liang,Hai-Ning,The Hong Kong University of Science and Technology,,,,,"Liang, Hai-Ning",2024,2024-05-11
+148,Lilian Liang,Liang,Lilian,Apple,,,,,"Liang, Lilian",2022,2022-04-29
+149,Laurence Lindsey,Lindsey,Laurence,Apple,,,,,"Lindsey, Laurence",2022,2022-04-29
+150,Feng Liu,Liu,Feng,University at Buffalo,,,,,"Liu, Feng",2022,2022-07-04
+151,Haohua Liu,Liu,Haohua,Tsinghua University,,,,,"Liu, Haohua",2023,2023-05-01
+152,Jiaying Lizzy Liu,Liu,Jiaying Lizzy,The University of Texas at Austin,,,,,"Liu, Jiaying Lizzy",2024,2024-07-29
+153,Wenjia Liu,Liu,Wenjia,Tsinghua University,,,,,"Liu, Wenjia",2020,2020-04-21
+154,Yujia Liu,Liu,Yujia,Tsinghua University,,,,,"Liu, Yujia",2024,2024-05-11
+155,Marsha C Lovett,Lovett,Marsha C,Carnegie Mellon University,,,,Marsha C. Lovett,"Lovett, Marsha C",2023,2023-02-21
+156,Feiyu Lu,Lu,Feiyu,JPMorgan Chase,,,,,"Lu, Feiyu",2023,2023-04-19
+157,Tao Lu,Lu,Tao,Georgia Institute of Technology,,,,,"Lu, Tao",2024,2024-05-11
+158,Yuxuan Lu,Lu,Yuxuan,Northeastern University,,,,,"Lu, Yuxuan",2024,2024-05-11
+159,Yao Lyu,Lyu,Yao,Pennsylvania State University,,,,,"Lyu, Yao",2024,2024-07-29
+160,Chengqian Ma,Ma,Chengqian,University of Washington,,,,,"Ma, Chengqian",2024,2024-05-13
+161,Zhijun Ma,Ma,Zhijun,Southeast University,,,,,"Ma, Zhijun",2023,2023-04-19
+162,Charlie Maalouf,Maalouf,Charlie,Apple,,,,,"Maalouf, Charlie",2022,2022-04-29
+163,Matteo Malgaroli,Malgaroli,Matteo,New York University,,,,,"Malgaroli, Matteo",2024,2024-05-20
+164,Alex Mariakakis,Mariakakis,Alex,University of Toronto,,,,,"Mariakakis, Alex",2020,2020-04-21
+165,Gonzalo Martinez,Martinez,Gonzalo,University of Notre Dame,,,,,"Martinez, Gonzalo",2023,2023-02-21
+166,Talie Massachi,Massachi,Talie,Brown University,,,,,"Massachi, Talie",2024,2024-05-11
+167,Stephen Mattingly,Mattingly,Stephen,University of Notre Dame,,,,,"Mattingly, Stephen",2023,2023-02-21
+168,Daniel McCaffrey,McCaffrey,Daniel,Samsung,,,,,"McCaffrey, Daniel",2021,2021-03-19
+169,Wendy Berry Mendes,Mendes,Wendy Berry,Yale University,,,,,"Mendes, Wendy Berry",2022,2022-07-01
+170,Mike Merrill,Merrill,Mike,University of Washington,,,,,"Merrill, Mike",2022,2022-11-28
+171,Haipeng Mi,Mi,Haipeng,Tsinghua University,,,,,"Mi, Haipeng",2023,2023-04-19
+172,Julia Moore,Moore,Julia,Samsung,,,,,"Moore, Julia",2022,2022-07-01
+173,Aske Mottelson,Mottelson,Aske,University of Copenhagen,,,,,"Mottelson, Aske",2018,2018-06-08
+174,Jax Seyed Mousavi,Mousavi,Jax Seyed,Apple,,,,,"Mousavi, Jax Seyed",2022,2022-04-29
+175,Aran Mun,Mun,Aran,Meta,,,,,"Mun, Aran",2023,2023-04-19
+176,Suranga Nanayakkara,Nanayakkara,Suranga,University of Auckland,,,,,"Nanayakkara, Suranga",2018,2018-09-03
+177,Tu Nguyen,Nguyen,Tu,Apple,,,,,"Nguyen, Tu",2022,2022-04-29
+178,Heriberto Nieto,Nieto,Heriberto,Apple,,,,,"Nieto, Heriberto",2022,2022-04-29
+179,Shuo Niu,Niu,Shuo,Clark University,,,,,"Niu, Shuo",2024,2024-07-29
+180,Farheen Omar,Omar,Farheen,Microsoft,,,,,"Omar, Farheen",2020,2020-04-20
+181,Adiba Orzikulova,Orzikulova,Adiba,Korea Advanced Institute of Science & Technology,,,,,"Orzikulova, Adiba",2024,2024-05-11
+182,Lace M Padilla,Padilla,Lace M,Northeastern University,,,,Lace M. Padilla,"Padilla, Lace M",2024,2024-05-11
+183,Xiaole Pan,Pan,Xiaole,Tsinghua University,,,,,"Pan, Xiaole",2024,2024-05-11
+184,Chanwoo Park,Park,Chanwoo,Massachusetts Institute of Technology,,,,,"Park, Chanwoo",2024,2024-04-22
+185,Arvind Pillai,Pillai,Arvind,Dartmouth College,,,,,"Pillai, Arvind",2024,2024-05-11
+186,Songming Ping,Ping,Songming,Xi'an Jiaotong-Liverpool University,,,,,"Ping, Songming",2024,2024-05-11
+187,Bogdan Popp,Popp,Bogdan,Microsoft,,,,,"Popp, Bogdan",2020,2020-04-20
+188,Venkatesh Potluri,Potluri,Venkatesh,University of Washington,,,,,"Potluri, Venkatesh",2023,2023-10-22
+189,Stephen Price,Price,Stephen,Carnegie Mellon University,,,,,"Price, Stephen",2023,2023-02-21
+190,Isha Puri,Puri,Isha,Massachusetts Institute of Technology,,,,,"Puri, Isha",2024,2024-05-20
+191,Lianhui Qin,Qin,Lianhui,University of California San Diego,,,,,"Qin, Lianhui",2024,2024-05-13
+192,Ethan Rogers,Rogers,Ethan,Northeastern University,,,,,"Rogers, Ethan",2024,2024-05-13
+193,Robert Rounthwaite,Rounthwaite,Robert,Microsoft,,,,,"Rounthwaite, Robert",2020,2020-04-20
+194,Behrooz Shahsavari,Shahsavari,Behrooz,Apple,,,,,"Shahsavari, Behrooz",2022,2022-04-29
+195,Nawar Shara,Shara,Nawar,MedStar Health,,,,,"Shara, Nawar",2024,2024-05-13
+196,Junxiao Shen,Shen,Junxiao,University of Bristol,,,,,"Shen, Junxiao",2023,2023-04-19
+197,Yilun Sheng,Sheng,Yilun,University of Washington,,,,,"Sheng, Yilun",2023,2023-10-08
+198,Haitian Shi,Shi,Haitian,Tsinghua University,,,,,"Shi, Haitian",2020,2020-04-21
+199,Yingtian Shi,Shi,Yingtian,Tsinghua University,,,,,"Shi, Yingtian",2023,2023-05-01
+200,Paul Sorenson,Sorenson,Paul,Meta,,,,,"Sorenson, Paul",2023,2023-04-19
+201,Aaron Striegel,Striegel,Aaron,University of Notre Dame,,,,,"Striegel, Aaron",2023,2023-02-21
+202,Yiheng Su,Su,Yiheng,The University of Texas at Austin,,,,,"Su, Yiheng",2024,2024-07-29
+203,Bongsoo Suh,Suh,Bongsoo,Apple,,,,,"Suh, Bongsoo",2022,2022-04-29
+204,Ruining Tang,Tang,Ruining,Tsinghua University,,,,,"Tang, Ruining",2020,2020-04-21
+205,Melanie Tory,Tory,Melanie,Northeastern University,,,,,"Tory, Melanie",2024,2024-05-11
+206,Fulton Wang,Fulton,Fulton,Meta,,,,,"Fulton, Fulton",2023,2023-04-19
+207,Jialin Wang,Wang,Jialin,Xi'an Jiaotong-Liverpool University,,,,,"Wang, Jialin",2024,2024-05-11
+208,Jingying Wang,Wang,Jingying,Tsinghua University,,,,,"Wang, Jingying",2023,2023-05-01
+209,Leijie Wang,Wang,Leijie,University of Washington,,,,,"Wang, Leijie",2023,2023-10-08
+210,Qian Wang,Wang,Qian,Carnegie Mellon University,,,,,"Wang, Qian",2018,2018-04-21
+211,Weichen Wang,Wang,Weichen,Meta,,,,,"Wang, Weichen",2023,2005-07-15
+212,Xueyang Wang,Wang,Xueyang,Tsinghua University,,,,,"Wang, Xueyang",2023,2023-04-19
+213,Yang Wang,Wang,Yang,University of Illinois at Urbana-Champaign,,,,,"Wang, Yang",2024,2024-08-22
+214,Yunlong Wang,Wang,Yunlong,"Agency for Science, Technology and Research",,,,,"Wang, Yunlong",2024,2024-07-29
+215,Zeyu Wang,Wang,Zeyu,Tsinghua University,wang-zy23@mails.tsinghua.edu.cn,,,,"Wang, Zeyu",2024,2024-05-13
+216,Tong Wei,Wei,Tong,Tsinghua University,,,,,"Wei, Tong",2021,2021-05-06
+217,Xiaoying Wei,Wei,Xiaoying,The Hong Kong University of Science and Technology,,,,,"Wei, Xiaoying",2021,2021-05-06
+218,Shaoyue Wen,Wen,Shaoyue,New York University,,,,,"Wen, Shaoyue",2024,2024-05-11
+219,Jacob O Wobbrock,Wobbrock,Jacob O,University of Washington,,,,Jacob O. Wobbrock,"Wobbrock, Jacob O",2021,2021-05-06
+220,Dan Wu,Wu,Dan,Peking University,,,,,"Wu, Dan",2022,2022-07-04
+221,Ruolan Wu,Wu,Ruolan,Tsinghua University,,,,,"Wu, Ruolan",2024,2024-05-11
+222,Te-Yen Wu,Wu,Te-Yen,Florida State University,,,,,"Wu, Te-Yen",2023,2023-04-19
+223,Zihan Wu,Wu,Zihan,University of Michigan,,,,,"Wu, Zihan",2021,2021-05-06
+224,Yaxiong Xie,Xie,Yaxiong,University at Buffalo,,Princeton University,,,"Xie, Yaxiong",2022,2022-07-04
+225,Momona Yamagami,Yamagami,Momona,Rice University,,,,,"Yamagami, Momona",2023,2023-10-22
+226,Kun Yan,Yan,Kun,Microsoft,kunyan@buaa.edu.cn,,,,"Yan, Kun",2024,2024-05-13
+227,Ziqi Yang,Yang,Ziqi,University of Michigan,,,,,"Yang, Ziqi",2024,2024-05-13
+228,Yuan Yao,Yao,Yuan,Beijing Jiaotong University,,,,,"Yao, Yuan",2023,2023-04-19
+229,Yuchen Yao,Yao,Yuchen,Tsinghua University,yaoyc19@mails.tsinghua.edu.cn,,,,"Yao, Yuchen",2024,2024-05-13
+230,Changchang Yin,Yin,Changchang,Northeastern University,,,,,"Yin, Changchang",2024,2024-05-11
+231,Anna Yu,Yu,Anna,Meta,,,,,"Yu, Anna",2023,2023-04-19
+232,Hong Yu,Yu,Hong,University of Massachusetts Lowell,,,,,"Yu, Hong",2024,2024-03-06
+233,Jianing Yu,Yu,Jianing,Northeastern University,,,,,"Yu, Jianing",2024,2024-05-11
+234,Qianqian Yu,Yu,Qianqian,University of Washington,,,,,"Yu, Qianqian",2023,2023-04-30
+235,Kent Richard Zeng,Zeng,Kent Richard,University of Washington,,,,,"Zeng, Kent Richard",2022,2022-10-22
+236,Xin Zeng,Zeng,Xin,Lenovo,,,,,"Zeng, Xin",2022,2022-04-27
+237,Daqing Zhang,Zhang,Daqing,Peking University,,,,,"Zhang, Daqing",2022,2022-07-04
+238,Jie Zhang,Zhang,Jie,University of Leeds,,,,,"Zhang, Jie",2022,2022-07-04
+239,Mingrui Ray Zhang,Zhang,Mingrui Ray,Meta,,,,,"Zhang, Mingrui Ray",2021,2021-05-06
+240,Ningning Zhang,Zhang,Ningning,Tsinghua University,,,,,"Zhang, Ningning",2024,2024-05-11
+241,Ping Zhang,Zhang,Ping,Ohio State University,,,,,"Zhang, Ping",2024,2024-05-11
+242,Shibo Zhang,Zhang,Shibo,HP Inc.,,,,,"Zhang, Shibo",2023,2023-06-12
+243,Shuning Zhang,Zhang,Shuning,Tsinghua University,,,,,"Zhang, Shuning",2024,2024-08-22
+244,Tengxiang Zhang,Zhang,Tengxiang,Chinese Academy of Sciences,,,,,"Zhang, Tengxiang",2022,2022-04-27
+245,Tianying Zhang,Zhang,Tianying,University of Michigan,,,,,"Zhang, Tianying",2024,2024-05-11
+246,Ting Zhang,Zhang,Ting,Meta,,,,,"Zhang, Ting",2023,2023-04-19
+247,Xiyuxing Zhang,Zhang,Xiyuxing,Tsinghua University,,,,,"Zhang, Xiyuxing",2022,2022-09-01
+248,Yan Zhang,Zhang,Yan,The University of Texas at Austin,,,,,"Zhang, Yan",2024,2024-07-29
+249,Yinshuai Zhang,Zhang,Yinshuai,Lenovo,,,,,"Zhang, Yinshuai",2022,2022-04-27
+250,Hongxiao Zheng,Zheng,Hongxiao,University of Michigan,,,,,"Zheng, Hongxiao",2024,2024-05-11
+251,Wengrui Zheng,Zheng,Wengrui,Tsinghua University,,,,,"Zheng, Wengrui",2020,2020-04-21
+252,Zhi Zheng,Zheng,Zhi,Tsinghua University,,,,,"Zheng, Zhi",2024,2024-05-11
+253,Mingyuan Zhong,Zhong,Mingyuan,University of Washington,,,,,"Zhong, Mingyuan",2018,2018-04-21
+254,Yuzhou Zhuang,Zhuang,Yuzhou,University of Washington,,,,,"Zhuang, Yuzhou",2021,2021-10-10
+-1,Yuang Li,Li,Yang,BUPT,,,,,"Li, Yuang",2022,2022-09-01
+-1,Yi He,He,Yi,BUPT,,,,,"He, Yi",2023,2023-04-19
