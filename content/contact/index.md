@@ -39,6 +39,43 @@ sections:
         ### Visiting Role / General Opportunities
 
         We always welcome undergraduate and graduate studnets from diverse background. Visiting roles can be either in-person or remote. If you are intersted in joining us as an master, undergraduate, or high school researcher, please fill out <u>[this form](https://forms.gle/zfHRzEqR9USm3sXV8)</u>!
+
+        Before applying, you may have some questions. Check the following FAQs.
+
+        ### FAQs
+
+        #### Q: What kind of candidates does SEA Lab look for?
+
+        A: Passion and enthusiasm! We're looking for people who view research as *fun*, *fascinating*, and *exciting*, rather than just "*another task to complete*". We want someone who is truly passionate about what they do. Don't have all the skills yet? That's totally fine—learning and growing is what it's all about!
+
+        #### Q: I have research experience in HCI/AI but none in health (or the other way around). Is that okay?
+
+        A: Absolutely! You already have a great starting point. We encourage you to dive into new areas and get to learn what you are excited about while working with us.
+
+        #### Q: What's the best way to learn about current projects in SEA Lab?
+
+        A: We regularly update our <u>[Research](/research/)</u> and <u>[Publication](/publication/)</u> pages, where you can find the latest work from the lab. You are also welcomed to reach out to any of our members if you are curious to learn more about specific projects—they are always happy to share!
+
+        #### Q: What kind of support or mentorship can I expect as a SEA Lab member?
+
+        A: We hope you come to the lab with a *goal*, or at least the plan to discover your *goal*. A major part of Orson's role is to support every single lab member in achieving their goals. Think of SEA Lab as a resource hub that fuels your journey: You decide your direction, and we're dedicated to making that path a reality together.
+
+        #### Q: What opportunities are there for collaboration within SEA Lab and across other labs?
+
+        A: Collaboration is an essential skill for researchers. We encourage (while not enforce :)) collaboration within the team and across other labs. Feel free to reach out to anyone for potential collaboration, whether it's joining their projects or inviting them to join yours.
+
+        #### Q: What's the vibe working in SEA Lab?
+
+        A: As you can probably tell, SEA Lab gathers a group of people who love what they do and are driven to make a real-world impact. We only do high-quality research and build great stuff. Yes, we may work hard, but we play harder.
+
+        #### Q: How does compensation work for SEA Lab members?
+
+        A: Ph.D. students will receive full support (tuition waiver + stipend) as outlined by the DBMI/CS programs. We aim to provide as many RAs as possible, with TAs as a backup (which can be a fun and rewarding experience too!)
+        Unfortunately, we cannot offer paid opportunities for undergraduate or master's RAs, and Columbia policy does not allow us to pay remote interns :(
+
+        
+
+
     design:
       columns: '1'
       css_class: justify-text
