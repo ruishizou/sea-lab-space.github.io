@@ -46,11 +46,11 @@ sections:
 
         #### Q: What kind of candidates does SEA Lab look for?
 
-        A: Passion and enthusiasm! We're looking for people who view research as *fun*, *fascinating*, and *exciting*, rather than just "*another task to complete*". We want someone who is truly passionate about what they do. Don't have all the skills yet? That's totally fine—learning and growing is what it's all about!
+        A: Passion, curiosity, and dedication. We're looking for people who are always curious and view research as *fun* and *exciting*, rather than just "*another task to complete*". We want someone who is truly passionate about what they do and committed to making a meaningful impact in the real world.
 
         #### Q: I have research experience in HCI/AI but none in health (or the other way around). Is that okay?
 
-        A: Absolutely! You already have a great starting point. We encourage you to dive into new areas and get to learn what you are excited about while working with us.
+        A: Absolutely! You already have a great starting point. Our research needs expertise from all these aspects, so we welcome you to leverage your strengths, while also encouraging you to explore and learn new fields as you work with us.
 
         #### Q: What's the best way to learn about current projects in SEA Lab?
 
@@ -62,16 +62,16 @@ sections:
 
         #### Q: What opportunities are there for collaboration within SEA Lab and across other labs?
 
-        A: Collaboration is an essential skill for researchers. We encourage (while not enforce :)) collaboration within the team and across other labs. Feel free to reach out to anyone for potential collaboration, whether it's joining their projects or inviting them to join yours.
+        A: Collaboration is an essential skill for researchers. We encourage (while not enforce) collaboration within the team and across other labs. Feel free to reach out to anyone for potential collaboration, whether it's joining their projects or inviting them to join yours.
 
         #### Q: What's the vibe working in SEA Lab?
 
-        A: As you can probably tell, SEA Lab gathers a group of people who love what they do and are driven to make real-world impacts. We only do high-quality research and build great stuff. Yes, we may work hard, but we play harder.
+        A: We love what we do. We are dedicated to make real-world impacts. We only do high-quality research and build great stuff. And yes, we may work hard, but we play harder.
 
         #### Q: How does compensation work for SEA Lab members?
 
-        A: Ph.D. students will receive full support (tuition waiver + stipend) as outlined by the DBMI/CS programs. We aim to provide as many RAs as possible, with TAs as a backup (which can be a fun and rewarding experience too!)
-        Unfortunately, we cannot offer paid opportunities for undergraduate or master's RAs, and Columbia policy does not allow us to pay remote interns :(
+        A: Ph.D. students will receive full support (tuition waiver + stipend) as outlined by the DBMI/CS programs. We aim to provide as many RAs as possible, with TAs as a backup (which can be a fun and rewarding experience too)
+        Unfortunately, we cannot offer paid opportunities for undergraduate or master's RAs, and Columbia policy does not allow us to pay remote interns.
 
         
 
