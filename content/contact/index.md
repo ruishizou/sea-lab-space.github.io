@@ -66,7 +66,7 @@ sections:
 
         #### Q: What's the vibe working in SEA Lab?
 
-        A: As you can probably tell, SEA Lab gathers a group of people who love what they do and are driven to make a real-world impact. We only do high-quality research and build great stuff. Yes, we may work hard, but we play harder.
+        A: As you can probably tell, SEA Lab gathers a group of people who love what they do and are driven to make real-world impacts. We only do high-quality research and build great stuff. Yes, we may work hard, but we play harder.
 
         #### Q: How does compensation work for SEA Lab members?
 
