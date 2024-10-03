@@ -60,7 +60,7 @@ sections:
 
         **General Opportunities**: We always welcome enthusiastic students and research interns who want to make an impact with us.
 
-        More details can be found in the <u>[JOIN US](/contact/)</u> page.
+        More details can be found in the <u>[JOIN US](/joinus/)</u> page.
 
     design:
       columns: '1'

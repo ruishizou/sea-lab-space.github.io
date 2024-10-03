@@ -20,5 +20,5 @@ main:
     url: publication
     weight: 30
   - name: JOIN US
-    url: contact
+    url: joinus
     weight: 40
