@@ -20,7 +20,7 @@ sections:
       
   - block: markdown
     content:
-      title: 1 - Reliable Multimodal Health Insights and Predicion Models
+      title: 1 - Reliable Multimodal Health Insights and Prediction Models
       subtitle: ''
       text: We leverage data from everyday sensors (smartphones, wearables, IoT, social media, to name just a few) and medical records to extract novel behavior insights and develop reliable AI/ML models for health prediction. This supports both general population and health experts.
     design:
