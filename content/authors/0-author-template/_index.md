@@ -41,16 +41,16 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: 
+    link: 'https://[your personal website link]'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:test@example.org'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=
+    link: https://scholar.google.com/citations?user=[your google scholar]
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/[your user name]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

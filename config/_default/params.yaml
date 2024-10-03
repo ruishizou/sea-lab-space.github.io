@@ -39,7 +39,7 @@ header:
     show_logo: true
     logo:
       text: ""
-      filename: "SEA_LOGO_white.png"
+      filename: "logo.png"
     show_language: false
     show_day_night: false
     highlight_active_link: false
