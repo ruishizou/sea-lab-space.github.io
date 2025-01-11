@@ -32,7 +32,7 @@ def reverse_name(name):
 
 # The latest version of the collaboration maintainance xlsx
 
-collab_rename_csv = "./processing/Xuhai _Orson_ Xu's Collaboration Track Record - Person-Pub.csv"
+collab_rename_csv = "./processing/Lab Collaboration Track Record - Person-Pub.csv"
 
 df_author = pd.read_csv(collab_rename_csv)
 

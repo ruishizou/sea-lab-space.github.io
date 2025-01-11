@@ -10,4 +10,6 @@
 # cp sea-lab-publication.bib "bak/sea-lab-publication-$timestamp.bib"
 # python3 ./processing/bib_post_processing.py
 
-academic import ./sea-lab-publication.bib ./content/publication/ --compact
+
+# Make sure you have installed the HUGO academic tool: https://github.com/girtel/hugo-academic-cli-girtel
+academic import ./sea-lab-publication.bib ./content/publication/ --compact`
