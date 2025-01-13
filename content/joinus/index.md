@@ -40,6 +40,8 @@ sections:
 
         We always welcome undergraduate and graduate studnets from diverse background. Visiting roles can be either in-person or remote. If you are intersted in joining us as an master, undergraduate, or high school researcher, please fill out <u>[this form](https://forms.gle/zfHRzEqR9USm3sXV8)</u>!
 
+        <br />
+
         Before applying, you may have some questions. Check the following FAQs.
 
         ### FAQs
@@ -70,11 +72,7 @@ sections:
 
         #### Q: How does compensation work for SEA Lab members?
 
-        A: Ph.D. students will receive full support (tuition waiver + stipend) as outlined by the DBMI/CS programs. We aim to provide as many RAs as possible, with TAs as a backup (which can be a fun and rewarding experience too)
-        Unfortunately, we cannot offer paid opportunities for undergraduate or master's RAs, and Columbia policy does not allow us to pay remote interns.
-
-        
-
+        A: Ph.D. students will receive full support (tuition waiver + stipend) as outlined by the DBMI/CS programs. We aim to provide as many RAs as possible, with TAs as a backup (which can be a fun and rewarding experience too).
 
     design:
       columns: '1'
