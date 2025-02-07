@@ -54,7 +54,7 @@ sections:
       text: |
         We are excited to welcome passionate and self-motivated researchers to join our team!
 
-        **Postdoc**: We have 1 postdoc position that can start in Spring 2025 or Fall 2025.
+        **Postdoc**: We have 0-1 postdoc position that start in Fall 2025 or later.
 
         **PhD**: We are looking for 1-2 PhD students to begin in Fall 2025.
 

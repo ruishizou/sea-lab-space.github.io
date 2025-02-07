@@ -47,3 +47,8 @@ This is the lab website code that can be maintained collaboratively.
 Our website is based on the following templates and tools:
 - [Hugo Research Group Theme](https://github.com/HugoBlox/theme-research-group)
 - [Hugo Blox](https://hugoblox.com)
+
+## Local Test
+
+- Follow [this page](https://docs.hugoblox.com/getting-started/install-hugo/) to install dependencies.
+- Run `hugo server -D` locally.
