@@ -18,7 +18,7 @@ role: Visiting PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Hong Kong University
+  - name: The University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: Hong Kong University
+      institution: The University of Hong Kong
       year: 2025
     - course: BE
       institution: Xiamen University
