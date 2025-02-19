@@ -13,7 +13,10 @@ authors:
 # superuser: (should be false by default)
 superuser: false
 
-# Role/position
+# Role/position. Pick one of the following
+## Research Intern
+## PhD Student
+## Postdoc Researcher
 role: 
 
 # Organizations/Affiliations
@@ -66,6 +69,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+# Right now only pick one of the following: [Researchers, Alumni]
 user_groups:
   - 
 ---

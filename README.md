@@ -4,6 +4,8 @@
 
 This is the lab website code that can be maintained collaboratively.
 
+Submit a pull request once you edit the website, and ping Orson to check the content in the lab.
+
 ## Coding Practice
 
 - Directly push only if you are confident about your changes.
