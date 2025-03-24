@@ -24,4 +24,4 @@ main:
     weight: 40
   - name: Privacy Policy
     url: privacy-policy
-    weight: 40
+    weight: 50
