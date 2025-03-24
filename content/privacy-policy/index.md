@@ -15,7 +15,7 @@ sections:
 
         For complete and authoritative privacy terms, please refer to the official [CUIMC Privacy Policy](https://www.cuimc.columbia.edu/privacy-policy). SEA Lab operates under the ethical, legal, and compliance frameworks provided by CUIMC and Columbia University.
 
-        <br/><br/>
+        <br/>
 
         ## **Information & Research Data Collection**
 
@@ -29,7 +29,7 @@ sections:
 
         This data is collected strictly for research purposes, with participants’ informed consent, and in compliance with Columbia University’s research ethics policies and institutional review board (IRB) oversight.
 
-        <br/><br/>
+        <br/>
 
         ## **How We Use Information**
 
@@ -43,7 +43,7 @@ sections:
 
         We do not sell or share personally identifiable information to third parties for commercial purposes.
 
-        <br/><br/>
+        <br/>
 
         ## **Your Participation & Rights**
 
@@ -55,7 +55,7 @@ sections:
 
         If you are a research participant, please refer to your consent form for study-specific privacy information.
 
-        <br/><br/>
+        <br/>
 
         ## **Third-Party Tools and External Links**
 
@@ -63,13 +63,13 @@ sections:
 
         We are not responsible for the privacy practices of external websites. We encourage users to review the privacy policies of any third-party services they choose to interact with.
 
-        <br/><br/>
+        <br/>
 
         ## **Accessibility**
 
         SEA Lab is committed to making our website accessible to all users. If you experience any issues or have suggestions, please contact us at sea.lab.space@gmail.com.
 
-        <br/><br/>
+        <br/>
 
         ## **Changes to This Privacy Policy**
 
