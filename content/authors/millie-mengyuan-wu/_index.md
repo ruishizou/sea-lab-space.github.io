@@ -38,7 +38,7 @@ education:
     - course: MS
       institution: Columbia University
       year: 2025
-    - course: BA
+    - course: BS
       institution: Columbia University
       year: 2019
 
