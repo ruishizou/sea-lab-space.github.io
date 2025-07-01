@@ -31,13 +31,13 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Electrical and Electronic Engineering
+    - course: PhD
       institution: The University of Hong Kong
       year: 2025
-    - course: M.E. in Computer Science and Technology
+    - course: ME
       institution: Xiamen University
       year: 2021
-    - course: B.E. in Computer Science and Technology
+    - course: BE
       institution: Xiamen University
       year: 2018
 
