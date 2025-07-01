@@ -31,13 +31,13 @@ interests:
 
 education:
   courses:
-    - course: PhD
+    - course: Ph.D. in Electrical and Electronic Engineering
       institution: The University of Hong Kong
       year: 2025
-    - course: BE
+    - course: M.E. in Computer Science and Technology
       institution: Xiamen University
       year: 2021
-    - course: BE
+    - course: B.E. in Computer Science and Technology
       institution: Xiamen University
       year: 2018
 
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Zhihan Jiang received her B.E. and M.E. degrees from Xiamen University in 2018 and 2021, respectively. She is currently pursuing the Ph.D. degree at the University of Hong Kong. Her research interests include Human-Computer Interaction, Data Analytics & Visualization, Ubiquitous Computing, and Mobile Computing, with a focus on developing mobile analytics systems for empowering pervasive healthcare.
+Zhihan Jiang received her B.E. and M.E. degrees in Computer Science and Technology from Xiamen University in 2018 and 2021, respectively. She is currently a final-year Ph.D. candidate at the University of Hong Kong. Her research interests include Human-Computer Interaction, Data Analytics & Visualization, Ubiquitous Computing, and Mobile Computing, with a focus on developing interactive analytics systems for empowering pervasive healthcare.
