@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-09-30
+date: 2025-09-01
 type: landing
 
 sections:
@@ -10,7 +10,7 @@ sections:
     content:
       title: 'Overview'
       text: | 
-        The **SEA** (<u>**S**</u>ense, <u>**E**</u>mpower, and <u>**A**</u>ugment) Lab at Columbia University, led by <u>[Dr. Xuhai "Orson" Xu](https://orsonxu.com)</u>, focuses on designing, developing, and deploying innovative and practical human-computer interaction (HCI) and applied machine learning (ML) techniques to advance human health and well-being.
+        The **SEA** (<u>**S**</u>ense, <u>**E**</u>mpower, and <u>**A**</u>ugment) Lab at Columbia University, led by <u>[Dr. Xuhai "Orson" Xu](https://orsonxu.com)</u>, focuses on designing, developing, and deploying innovative and practical human-computer interaction (HCI) and applied artificial intelligent and machine learning (AI/ML) techniques to advance human health and well-being.
 
         With everyday sensors and intelligent systems rapidly evolving, we adopt interdisciplinary approaches across computer science and health informatics to tackle real-world challenges.
         Our vision is to establish a set of human-centered methods, devices, and systems to **sense, empower, and augment** our everyday behavior, thereby enhancing daily experience and health outcomes.<br/> <br/>
@@ -30,13 +30,13 @@ sections:
                   <h5>Augment</h5>
               </div>
               <div class="col-md-4">
-                  Collecting and Integrating data from daily devices & medical systems to obtain a comprehensive understanding of health.
+                  Collecting and integrating data from daily devices & medical systems to obtain a comprehensive picture of personal health.
               </div>
               <div class="col-md-4">
-                  Creating tools and interventions to derive actionable health insights and enable informed decisions.
+                  Creating AI methods and tools to derive actionable health insights and enable informed decisions.
               </div>
               <div class="col-md-4">
-                  Developing systems to amplify positive behaviors, enhance human capabilities, and ultimately improve quality of life.
+                  Developing human-centered systems to promote healthy behaviors, enhance capabilities, and improve well-being.
               </div>
           </div>
         </div> <br>
