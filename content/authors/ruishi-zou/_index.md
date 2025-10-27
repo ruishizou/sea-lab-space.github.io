@@ -28,10 +28,10 @@ organizations:
 bio: 
 
 interests:
-  - Human-Computer Interaction
+  - Human-computer Interaction
   - Visualization
-  - Human-AI Collaboration
-  - Healthcare
+  - Human-centered AI
+  - Health
 
 education:
   courses:
@@ -49,7 +49,7 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://motion115.github.io/'
+    link: 'https://ruishizou.github.io/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ruishi.ray.zou@gmail.com'
@@ -58,10 +58,10 @@ social:
     link: https://scholar.google.com/citations?user=fHRnWkUAAAAJ
   - icon: x-twitter
     icon_pack: fab
-    link: https://x.com/_ray_zou
+    link: https://x.com/ruishi_zou
   - icon: github
     icon_pack: fab
-    link: https://github.com/motion115
+    link: https://github.com/ruishizou
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
